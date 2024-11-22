@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Food for All",
+    "location": {
+      "address": "12 Charity St",
+      "city": "London",
+      "country": "UK",
+      "zip_code": "SW1A 1AA"
+    },
+    "causes": ["Hunger", "Community Support"],
+    "skills_needed": ["Cooking", "Event Organization"],
+    "contact_email": "info@foodforall.org"
+  },
+  {
+    "name": "Clean Oceans",
+    "location": {
+      "address": "45 Ocean Blvd",
+      "city": "Paris",
+      "country": "France",
+      "zip_code": "75002"
+    },
+    "causes": ["Environmental Protection", "Education"],
+    "skills_needed": ["Public Speaking", "Event Organization"],
+    "contact_email": "contact@cleanoceans.org"
+  }
+]
+

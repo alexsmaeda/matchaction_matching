@@ -1,0 +1,35 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "skills": ["Public Speaking", "Teaching"],
+    "interests": ["Environmental Protection", "Education"],
+    "availability": ["Weekends"],
+    "current_location": {
+      "address": "123 Main St",
+      "city": "Paris",
+      "country": "France",
+      "zip_code": "75001"
+    },
+    "preferred_locations": [
+      {"city": "Berlin", "country": "Germany"}
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "skills": ["Cooking", "Event Organization"],
+    "interests": ["Hunger", "Community Support"],
+    "availability": ["Evenings"],
+    "current_location": {
+      "address": "456 Elm St",
+      "city": "London",
+      "country": "UK",
+      "zip_code": "SW1A 1AA"
+    },
+    "preferred_locations": [
+      {"city": "Paris", "country": "France"}
+    ]
+  }
+]
+
